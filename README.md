@@ -1,7 +1,6 @@
-# App Deployed in the below urls
+# App Deployed in the below url
 
 https://playground-master-emn7lhejb4d9.herokuapp.com/
-
 
 # Getting Started with Create React App
 
