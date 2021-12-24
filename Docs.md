@@ -15,3 +15,5 @@ Eslint Setup
 Prettier Setup
 
 Precommit Hook
+
+Add components and storybook changes
