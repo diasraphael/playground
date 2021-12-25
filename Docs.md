@@ -17,3 +17,7 @@ Prettier Setup
 Precommit Hook
 
 Add components and storybook changes
+
+# Ideas
+
+can push js methods with good documentation to github as references to look back
