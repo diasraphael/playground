@@ -14,7 +14,7 @@ Eslint Setup
 
 Prettier Setup
 
-Precommit Hook
+Pre commit Hook
 
 Add components and storybook changes
 
@@ -27,3 +27,5 @@ can push how the methods work with sample examples and execute them online(sampl
 portfolio online site with resume frontend developer
 
 file upload with full implementation saving and fetching file and viewing content
+
+faith baptist church site
