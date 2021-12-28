@@ -29,3 +29,5 @@ portfolio online site with resume frontend developer
 file upload with full implementation saving and fetching file and viewing content
 
 faith baptist church site
+
+do react projects weekly
