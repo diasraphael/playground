@@ -6,6 +6,8 @@ Storybook Setup : https://medium.com/@diasraphael88/storybook-with-create-react-
 
 Typescript Setup : https://medium.com/@diasraphael88/adding-typescript-to-existing-create-react-app-3a62330b3825
 
+Pre commit Hook Setup : https://medium.com/@diasraphael88/pre-commit-hook-with-initial-prettier-setup-bcc7007da3ec
+
 Code Deployed to Heroku : https://playground-master-emn7lhejb4d9.herokuapp.com/
 
 # To Do:
@@ -13,8 +15,6 @@ Code Deployed to Heroku : https://playground-master-emn7lhejb4d9.herokuapp.com/
 Eslint Setup
 
 Prettier Setup
-
-Pre commit Hook
 
 Add components and storybook changes
 
