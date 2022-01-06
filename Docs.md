@@ -16,6 +16,8 @@ Eslint Setup
 
 Prettier Setup
 
+Make a release branch so that we can fork from here the base settings to diff project
+
 Add components and storybook changes
 
 # Ideas
