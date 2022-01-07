@@ -1,20 +1,18 @@
 # Done
 
-Tailwind Setup : https://medium.com/@diasraphael88/add-tailwind-to-create-react-app-75b2ad7887ed
+1. Tailwind Setup : https://medium.com/@diasraphael88/add-tailwind-to-create-react-app-75b2ad7887ed
 
-Storybook Setup : https://medium.com/@diasraphael88/storybook-with-create-react-app-455e13fd2564
+2. Storybook Setup : https://medium.com/@diasraphael88/storybook-with-create-react-app-455e13fd2564
 
-Typescript Setup : https://medium.com/@diasraphael88/adding-typescript-to-existing-create-react-app-3a62330b3825
+3. Typescript Setup : https://medium.com/@diasraphael88/adding-typescript-to-existing-create-react-app-3a62330b3825
 
-Pre commit Hook Setup : https://medium.com/@diasraphael88/pre-commit-hook-with-initial-prettier-setup-bcc7007da3ec
+4. Pre commit Hook Setup : https://medium.com/@diasraphael88/pre-commit-hook-with-initial-prettier-setup-bcc7007da3ec
+
+5. Prettier and Eslint to work together : https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b
 
 Code Deployed to Heroku : https://playground-master-emn7lhejb4d9.herokuapp.com/
 
 # To Do:
-
-Eslint Setup
-
-Prettier Setup
 
 Make a release branch so that we can fork from here the base settings to diff project
 
