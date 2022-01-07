@@ -10,13 +10,13 @@
 
 5. Prettier and Eslint to work together : https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b
 
-Code Deployed to Heroku : https://playground-master-emn7lhejb4d9.herokuapp.com/
+6. Make a branch so that we can fork from here the base settings to diff project : Created settings branch in playground which has the initial settings, so any modifications from now on will be pushed to settings branch from a new branch from settings branch
+
+7. Code Deployed to Heroku : https://playground-master-emn7lhejb4d9.herokuapp.com/
 
 # To Do:
 
-Make a release branch so that we can fork from here the base settings to diff project
-
-Add components and storybook changes
+1. Add sample component and storybook changes
 
 # Ideas
 
@@ -31,3 +31,7 @@ file upload with full implementation saving and fetching file and viewing conten
 faith baptist church site
 
 do react projects weekly
+
+create simple buttons as components
+
+create node module and we can use this node module in package.json and use the components
